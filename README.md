@@ -3,7 +3,16 @@
 # API STAR WARS
 API: https://swapi.dev/api/people/
 
-### `yarn intall`
+
+
+### `yarn install`
+Para instalar as depens
+
+* [Pre Requisitos](#pre-requisitos)
+* [Local files](#local-files)
+* [Remote files](#remote-files)
+* [Multiple files](#multiple-files)
+* [Combo](#combo)
 
 ### `yarn start`
 
