@@ -11,6 +11,7 @@ function Search() {
   useEffect(() => {(async () => {
     const result = await getStarWars(querySearch);
     setList(result.data.results)
+    console.log('star-wars', result)
   })()
 }, [querySearch])
   
