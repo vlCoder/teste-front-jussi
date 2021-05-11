@@ -6,13 +6,11 @@ API: https://swapi.dev/api/people/
 
 
 ### `yarn install`
-Para instalar as depens
+Para instalar as dependências 
 
-* [Pre Requisitos](#pre-requisitos)
-* [Local files](#local-files)
-* [Remote files](#remote-files)
-* [Multiple files](#multiple-files)
-* [Combo](#combo)
+* [SASS]
+* [Axios]
+
 
 ### `yarn start`
 
