@@ -1,7 +1,7 @@
+# Teste Front End para Jussi
 
-#Teste Front End para Jussi
-
-API: https://swapi.dev/
+# API STAR WARS
+API: https://swapi.dev/api/people/
 
 ### `yarn intall`
 
